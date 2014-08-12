@@ -68,3 +68,7 @@ LD Workshop - 4 rue du Grand Gonnet – 42000 Saint Etienne – France
 www.ldworkhsop.fr
 
 Special thanks to my wife and kids who are my inspiration, helps and beta-testers.
+
+Changelog
+---------
+* __v1.02__: add sofa in the .skp file and sofa drawings in the PDF folder.
