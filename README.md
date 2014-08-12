@@ -3,6 +3,8 @@
 [Open Play House](http://ldworkshop.fr/oph.html)
 =================
 
+![](http://cdn.instructables.com/FCG/Y1HF/HXQ3TZHD/FCGY1HFHXQ3TZHD.LARGE.jpg)
+
 About
 -----
 
